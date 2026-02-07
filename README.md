@@ -138,9 +138,7 @@ Remember: there are no stupid questions, only bricks we haven’t figured out ho
 
 ## 🎯 What’s Next?
 
-**Episode 2**: Inheritance - When Child Bricks Rebel Against Their Parent Classes
-
-Learn how `class SpecializedBrick(LegoBrick)` lets you create fancy new bricks that inherit all the goodness of their parent class while adding their own special sauce. It’s like LEGO Technic: still LEGO, but with gears and motors and an instruction manual that makes you question your life choices.
+**Episode 2**: Encapsulation
 
 -----
 
