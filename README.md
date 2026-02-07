@@ -95,7 +95,7 @@ python/
 │   ├── examples.py          # Additional examples and experiments
 │   └── README.md            # Episode-specific details
 │
-├── episode-02/              # Coming soon: Inheritance
+├── episode-02/              # Coming soon: Encapsulation
 │   └── ...
 │
 └── resources/               # Useful LEGO-Python crossover content
